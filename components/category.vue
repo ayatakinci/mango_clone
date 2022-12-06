@@ -147,7 +147,7 @@
                   data-vsvbg="//staticpages.mngbcn.com/homes/images/fw22/she/noviembre/she_landing_fiesta_0711.jpg"
                   data-vsv-bg-processed="//staticpages.mngbcn.com/homes/images/fw22/she/noviembre/she_landing_fiesta_0711.jpg?imwidth=429&amp;imdensity=1&amp;impolicy=set_13"
                   style="
-                    background-image: url('//staticpages.mngbcn.com/homes/images/fw22/she/noviembre/she_landing_fiesta_0711.jpg?imwidth=429&amp;imdensity=1&amp;impolicy=set_13');
+                    background-image: url('//staticpages.mngbcn.com/homes/images/fw22/she/diciembre/she_landing_puffers_0512.jpg?imwidth=433&imdensity=1&impolicy=set_13');
                     transition: opacity 0.5s ease 0s;
                     opacity: 1;
                   "
@@ -155,7 +155,7 @@
                 <div class="vsv-overlay"></div>
                 <div class="vsv-bloc-wrapper">
                   <div class="vsv-titles">
-                    <h2 class="vsv-title">Parti ve özel günler</h2>
+                    <h2 class="vsv-title">Buffer Bar</h2>
                     <div class="vsv-links">
                       <a
                         href="/tr/kadin/one-cikanlar/parti-ve-ozel-gunler_d12911309"
@@ -193,7 +193,7 @@
                   data-vsvbg="//staticpages.mngbcn.com/homes/images/fw22/she/noviembre/she_landing_exonline_0711.jpg"
                   data-vsv-bg-processed="//staticpages.mngbcn.com/homes/images/fw22/she/noviembre/she_landing_exonline_0711.jpg?imwidth=429&amp;imdensity=1&amp;impolicy=set_13"
                   style="
-                    background-image: url('//staticpages.mngbcn.com/homes/images/fw22/she/noviembre/she_landing_exonline_0711.jpg?imwidth=429&amp;imdensity=1&amp;impolicy=set_13');
+                    background-image: url('//staticpages.mngbcn.com/homes/images/fw22/she/diciembre/she_landing_leather_0512.jpg?imwidth=433&imdensity=1&impolicy=set_13');
                     transition: opacity 0.5s ease 0s;
                     opacity: 1;
                   "
@@ -201,7 +201,7 @@
                 <div class="vsv-overlay"></div>
                 <div class="vsv-bloc-wrapper">
                   <div class="vsv-titles">
-                    <h2 class="vsv-title">Online Exclusive</h2>
+                    <h2 class="vsv-title">Leather and More</h2>
                     <div class="vsv-links">
                       <a
                         href="/tr/kadin/one-cikanlar/online-exclusive_d19236523"
@@ -270,7 +270,7 @@
                   data-vsvbg="//staticpages.mngbcn.com/homes/images/fw22/she/noviembre/she_landing_keytrends_0711.jpg"
                   data-vsv-bg-processed="//staticpages.mngbcn.com/homes/images/fw22/she/noviembre/she_landing_keytrends_0711.jpg?imwidth=429&amp;imdensity=1&amp;impolicy=set_13"
                   style="
-                    background-image: url('//staticpages.mngbcn.com/homes/images/fw22/she/noviembre/she_landing_keytrends_0711.jpg?imwidth=429&amp;imdensity=1&amp;impolicy=set_13');
+                    background-image: url('//staticpages.mngbcn.com/homes/images/fw22/she/diciembre/she_landing_exonline_0512.jpg?imwidth=433&imdensity=1&impolicy=set_13');
                     transition: opacity 0.5s ease 0s;
                     opacity: 1;
                   "
@@ -279,7 +279,7 @@
                 <div class="vsv-overlay"></div>
                 <div class="vsv-bloc-wrapper">
                   <div class="vsv-titles">
-                    <h2 class="vsv-title">Ayın trendleri</h2>
+                    <h2 class="vsv-title">Çanta</h2>
                     <div class="vsv-links">
                       <a
                         href="/tr/kadin/one-cikanlar/ayın-trendleri_d21332319"

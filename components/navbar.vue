@@ -1,6 +1,7 @@
 <template>
   <div>
     <header id="headerMNG" class="headerMNG">
+    
       <micro-frontend
         url="/st-header/header/desktop"
         name="header"
@@ -168,7 +169,18 @@
                     data-testid="header-user-menu-bag-icon"
                   ></span>
                 </div>
-                <span class="RyoN5">Sepet</span>
+                <span class="RyoN5">  <button v-on:click="fadeMe" style="background: none;
+	color: inherit;
+	border: none;
+	padding: 0;
+	font: inherit;
+	cursor: pointer;
+	outline: inherit;">
+    Sepet
+  </button>
+  <transition name="fade" v-on:enter="enter">
+    <p v-if="show">Sepetinizde Ürün Yok</p>
+  </transition></span>
               </button>
             </div>
           </div>
@@ -211,7 +223,44 @@
     </header>
   </div>
 </template>
+<script>
+export default{
+  data(){
+    return{
+      show: false
+    }
+  },
+  methods: {
+
+fadeMe: function() {
+  this.show = !this.show
+},
+
+enter: function(el, done) {
+
+  var that = this;
+
+  setTimeout(function() {
+    that.show = false;
+  }, 3000); // hide the message after 3 seconds
+}
+
+}
+}
+</script>
 <style scoped>
+.fade-enter-active,
+.fade-leave-active {
+  transition: opacity 1s
+}
+
+.fade-enter,
+.fade-leave-to
+/* .fade-leave-active in <2.1.8 */
+
+{
+  opacity: 0
+}
 .YhCbo ._kwrY {
   display: flex;
   align-items: center;
