@@ -19,11 +19,26 @@
           </div>
           <div class="pTIaG" id="headerWrapper">
             <ul class="QqH6A">
-              <li class="RwseE r9mmy">
-                <a id="sheHeaderMenuItem" class="ZBKdk YCtLN null"
-                  ><span>Kadin</span></a
-                >
-              </li>
+              <div >
+  <select name="" id=""  v-model="selected"  style="
+                      background: none;
+                      color: inherit;
+                      border: none;
+                      padding: 0;
+                      font: inherit;
+                      cursor: pointer;
+                      outline: inherit;
+                     border-bottom: 1px solid black;
+                     width:55px;
+                     font-size: 12px;
+                     margin-top: 25px;
+                    "
+                   >
+    <option id="sheHeaderMenuItem"    value="" disabled>Kadın</option>
+    <option v-for="car in cars">{{ car }}</option>
+  </select>
+ 
+</div>
               <li class="RwseE r9mmy" data-testid="header.menuItem.he.hover">
                 <a id="heHeaderMenuItem" class="YCtLN null"
                   ><span>Erkek</span></a
@@ -126,6 +141,8 @@ export default {
   data() {
     return {
       show: false,
+      cars: ['New Now', 'Heidye Rehberi', 'Giyim','Büyük Beden','Promosyon'],
+    selected: ''
     };
   },
   methods: {
@@ -141,10 +158,18 @@ export default {
       }, 3000); // hide the message after 3 seconds
     },
   },
+  mounted () {
+   
+  }
 };
 </script>
 <style scoped>
 .show {
   display: block;
+}
+#app {
+  max-width: 500px;
+  padding: 5rem;
+  margin: 0 auto;
 }
 </style>
