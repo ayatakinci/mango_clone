@@ -35,7 +35,7 @@
                     "
                    >
     <option id="sheHeaderMenuItem"    value="" disabled>Kadın</option>
-    <option v-for="car in cars">{{ car }}</option>
+    <option v-for="item in items">{{ item }}</option>
   </select>
  
 </div>
@@ -141,7 +141,7 @@ export default {
   data() {
     return {
       show: false,
-      cars: ['New Now', 'Heidye Rehberi', 'Giyim','Büyük Beden','Promosyon'],
+      items: ['New Now', 'Heidye Rehberi', 'Giyim','Büyük Beden','Promosyon'],
     selected: ''
     };
   },
