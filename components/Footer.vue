@@ -23,148 +23,116 @@
 
       <div id="nav-footer">
         <ul class="nav-footer">
-          <li class="nav-footer-link">
-            <span class="" id="ayuda">
-              <a
-                target=""
-                href="https://shop.mango.com/tr/help/12592.html"
-                data-ga-label="ayuda"
-                >Yardım</a
-              >
-            </span>
-          </li>
-          <li class="nav-footer-link">
-            <span class="" id="miscompras">
-              <a
-                target=""
-                href="https://shop.mango.com/tr/mypurchases"
-                data-ga-label="miscompras"
-              >
-                Alışverişlerim
-              </a>
-            </span>
-          </li>
-          <li class="nav-footer-link">
-            <span class="" id="devoluciones">
-              <a
-                target=""
-                href="https://shop.mango.com/tr/help/2882.html"
-                data-ga-label="devoluciones"
-                >İadeler</a
-              >
-            </span>
-          </li>
-          <li class="nav-footer-link">
-            <span class="modal-bt-js" id="buscarTiendas">
-              <a
-                target=""
-                href="javascript:void(0)"
-                data-ga-label="buscarTiendas"
-              >
-                Mağazalar
-              </a>
-            </span>
-          </li>
-          <li class="nav-footer-link">
-            <span class="" id="apps">
-              <a
-                target=""
-                href="https://shop.mango.com/redirect.faces?op=conta&amp;externa=NEWAPPKIDS0515"
-                data-ga-label="apps"
-              >
-                Uygulamalar
-              </a>
-            </span>
-          </li>
-          <li class="nav-footer-link">
-            <span class="empresa">
-              <a
-                href="https://shop.mango.com/redirect.faces?op=conta&amp;externa=SITEEMPRESA2020"
-                target="_blank"
-                data-ga-label="pieEmpresa"
-              >
-                Şirket
-              </a>
-            </span>
-          </li>
-          <li class="nav-footer-link">
-            <span class="franquicias">
-              <a
-                href="https://shop.mango.com/redirect.faces?op=conta&amp;externa=SITEEMPRESA2020#franquicias"
-                target="_blank"
-                data-ga-label="pieFranquicias"
-              >
-                Bayiler
-              </a>
-            </span>
-          </li>
-          <li class="nav-footer-link">
-            <span class="trabaja">
-              <a
-                href="https://jobs.mango.com"
-                target="_blank"
-                data-ga-label="pieTrabajarNewTr"
-              >
-                MANGO'da çalış
-              </a>
-            </span>
-          </li>
-          <li class="nav-footer-link">
-            <span class="prensa">
-              <a
-                href="https://press.mango.com/tr"
-                target="_blank"
-                data-ga-label="pressroom"
-              >
-                Basın
-              </a>
-            </span>
-          </li>
-          <li class="nav-footer-link">
-            <span class="" id="siteMap">
-              <a
-                target=""
-                href="https://shop.mango.com/tr/sitemap"
-                data-ga-label="siteMap"
-              >
-                Site map
-              </a>
-            </span>
-          </li>
-          <li class="nav-footer-link">
-            <span class="" id="landingSeo">
-              <a
-                target=""
-                href="https://shop.mango.com/tr/events"
-                data-ga-label="landingSeo"
-              >
-                Özel günler
-              </a>
-            </span>
-          </li>
-          <li class="nav-footer-link">
-            <span class="">
-              <a
-                href="https://shop.mango.com/redirect.faces?op=conta&amp;externa=affiliate"
-                target="_blank"
-                data-ga-label="afiliados"
-              >
-                Affiliate programina
-              </a>
-            </span>
-          </li>
-          <li class="nav-footer-link">
-            <span class="" id="sostenibilidad">
-              <a
-                target=""
-                href="https://shop.mango.com/redirect.faces?op=conta&amp;externa=CATSHE042021SUSTAINABILITY"
-                data-ga-label="sostenibilidad"
-              >
-                Sürdürülebilirlik
-              </a>
-            </span>
-          </li>
-        </ul>
+							<li class="nav-footer-link">
+				<span class="" id="ayuda">
+					<a target="" href="https://shop.mango.com/tr/help/12592.html" data-ga-label="ayuda">Yardım</a>
+				</span>
+							</li>
+							<li class="nav-footer-link">
+			
+			<span class="" id="miscompras">
+				<a target="" href="https://shop.mango.com/tr/mypurchases" data-ga-label="miscompras">		
+						
+						Alışverişlerim
+				</a>
+			</span>
+							</li>
+							<li class="nav-footer-link">
+				<span class="" id="devoluciones">
+					<a target="" href="https://shop.mango.com/tr/help/2882.html" data-ga-label="devoluciones">İadeler</a>
+				</span>
+							</li>
+							<li class="nav-footer-link">
+			
+			<span class="modal-bt-js" id="buscarTiendas">
+				<a target="" href="javascript:void(0)" data-ga-label="buscarTiendas">		
+						
+						Mağazalar
+				</a>
+			</span>
+							</li>
+							<li class="nav-footer-link">
+			
+			<span class="" id="apps">
+				<a target="" href="https://shop.mango.com/redirect.faces?op=conta&amp;externa=NEWAPPKIDS0515" data-ga-label="apps">		
+						
+						Uygulamalar
+				</a>
+			</span>
+							</li>
+							<li class="nav-footer-link">
+			<span class="empresa">
+					
+					<a href="https://shop.mango.com/redirect.faces?op=conta&amp;externa=SITEEMPRESA2020" target="_blank" data-ga-label="pieEmpresa">
+						
+						Şirket
+					</a>
+			</span>
+							</li>
+							<li class="nav-footer-link">
+			<span class="franquicias">
+					
+					<a href="https://shop.mango.com/redirect.faces?op=conta&amp;externa=SITEEMPRESA2020#franquicias" target="_blank" data-ga-label="pieFranquicias">
+						
+							Bayiler
+					</a>
+			</span>
+							</li>
+							<li class="nav-footer-link">
+			<span class="trabaja">
+					
+					<a href="https://jobs.mango.com" target="_blank" data-ga-label="pieTrabajarNewTr">
+						
+						MANGO'da çalış
+					</a>
+			</span>
+							</li>
+							<li class="nav-footer-link">
+			<span class="prensa">
+					
+					<a href="https://press.mango.com/tr" target="_blank" data-ga-label="pressroom">
+						
+						Basın
+					</a>
+			</span>
+							</li>
+							<li class="nav-footer-link">
+			
+			<span class="" id="siteMap">
+				<a target="" href="https://shop.mango.com/tr/sitemap" data-ga-label="siteMap">		
+						
+						Site map
+				</a>
+			</span>
+							</li>
+							<li class="nav-footer-link">
+			
+			<span class="" id="landingSeo">
+				<a target="" href="https://shop.mango.com/tr/events" data-ga-label="landingSeo">		
+						
+						Özel günler
+				</a>
+			</span>
+							</li>
+							<li class="nav-footer-link">
+			<span class="">
+					
+					<a href="https://shop.mango.com/redirect.faces?op=conta&amp;externa=affiliate" target="_blank" data-ga-label="afiliados">
+						
+						Affiliate programina
+					</a>
+			</span>
+							</li>
+							<li class="nav-footer-link">
+			
+			<span class="" id="sostenibilidad">
+				<a target="" href="https://shop.mango.com/redirect.faces?op=conta&amp;externa=CATSHE042021SUSTAINABILITY" data-ga-label="sostenibilidad">		
+						
+						Sürdürülebilirlik
+				</a>
+			</span>
+							</li>
+				</ul>
       </div>
 
     

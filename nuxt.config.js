@@ -25,14 +25,9 @@ export default {
     css: ['~/assets/style/styles.css',
     '~/assets/style/custom.css',
     '~/assets/style/form.css',
-    '~/assets/style/fukku.css',
     '~/assets/style/iris-button.css',
-    '~/assets/style/videocontrols.css',
     '~/assets/style/styles2.css',
     '~/assets/style/styles3.css',
-    '~/assets/style/styles4.css',
-    '~/assets/style/styles5.css',
-    '~/assets/style/styles6.css',
     '~/assets/style/styles7.css'],
   
     // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins

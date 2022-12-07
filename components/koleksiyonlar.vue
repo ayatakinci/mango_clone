@@ -20,7 +20,7 @@ color: white;" class="card-title">{{item.name}}</button>
 </div>
     </section>
   </template>
-  <style>
+  <style scoped>
   
 img {
   max-width: 100%;

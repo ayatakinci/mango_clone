@@ -11,8 +11,6 @@
             href="http://www.facebook.com/mango.com"
             target="_blank"
             rel="nofollow"
-            data-ga-label="facebook"
-            aria-label="facebook"
           >
             f
           </a>
@@ -20,26 +18,14 @@
       </span>
       <span class="nav-socialnetwork-link">
         <span class="social__icon tw icon">
-          <a
-            href="http://www.twitter.com/mango"
-            target="_blank"
-            rel="nofollow"
-            data-ga-label="twitter"
-            aria-label="twitter"
-          >
+          <a href="http://www.twitter.com/mango" target="_blank" rel="nofollow">
             t
           </a>
         </span>
       </span>
       <span class="nav-socialnetwork-link">
         <span class="social__icon it icon">
-          <a
-            href="http://instagram.com/mango"
-            target="_blank"
-            rel="nofollow"
-            data-ga-label="instagram"
-            aria-label="instagram"
-          >
+          <a href="http://instagram.com/mango" target="_blank" rel="nofollow">
             i
           </a>
         </span>
@@ -50,8 +36,6 @@
             href="http://pinterest.com/mangofashion/"
             target="_blank"
             rel="nofollow"
-            data-ga-label="pinterest"
-            aria-label="pinterest"
           >
             p
           </a>
@@ -63,8 +47,6 @@
             href="https://open.spotify.com/user/mango_official"
             target="_blank"
             rel="nofollow"
-            data-ga-label="spotify"
-            aria-label="spotify"
           >
             2
           </a>
@@ -76,8 +58,6 @@
             href="http://www.youtube.com/user/mangoFashion/"
             target="_blank"
             rel="nofollow"
-            data-ga-label="youtube"
-            aria-label="youtube"
           >
             y
           </a>
@@ -89,8 +69,6 @@
             href="https://es.foursquare.com/mango"
             target="_blank"
             rel="nofollow"
-            data-ga-label="foursquare"
-            aria-label="foursquare"
           >
             F
           </a>
